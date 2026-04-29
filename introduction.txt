@@ -1,0 +1,7 @@
+Brief Introduction About Myself
+
+My name is [Your Name]. I am currently a student learning software engineering.
+I am passionate about technology and excited to learn how to use tools like Git and GitHub.
+
+I created this file as part of my first GitHub project. I look forward to building
+more projects and growing my skills in the tech space.
