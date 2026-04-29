@@ -1,0 +1,1 @@
+What I have learned so far in this course is how Git and GitHub help track changes, manage repositories, and support collaboration. I have learned how to clone repositories, create branches, commit changes, and push updates to GitHub.
